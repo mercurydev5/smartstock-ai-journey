@@ -24,7 +24,7 @@
 | **VS Code** ⭐⭐⭐ | Primary IDE | ✅ Free | https://code.visualstudio.com |
 | **Jupyter Notebook** ⭐⭐⭐ | Data exploration | ✅ Free | https://jupyter.org |
 | **Google Colab** ⭐⭐⭐ | Free GPU (T4) | ✅ Free | https://colab.research.google.com |
-| Colab Pro | Better GPU (A100) | ₹800/month | colab.research.google.com |
+| Colab Pro | Better GPU (A100) | ₹800/month | https://colab.research.google.com |
 | PyCharm | Python IDE | ✅ Community free | https://jetbrains.com/pycharm |
 
 ### VS Code Extensions for ML

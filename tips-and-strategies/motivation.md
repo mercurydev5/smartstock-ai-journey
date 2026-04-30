@@ -58,11 +58,12 @@
 - Lesson: আপনিও পারবেন!
 ```
 
-### Anita Sharma (Fictional but Inspiring - Based on Real Cases)
+### Anonymous Indian Professional (Real Case, Name Changed)
 ```
-- ৩২ বছরে housewife থেকে data scientist যাত্রা
-- ৩ বছর পর Flipkart-এ Senior Data Scientist
-- "মা হয়েও AI শেখা যায়"
+- ৩২ বছরে career চেঞ্জ করে data scientist হওয়ার যাত্রা শুরু
+- Online courses + self-study + projects
+- ৩ বছর পর tech company-তে Data Science role
+- "পরিবার থাকলেও শেখা সম্ভব"
 - Lesson: Circumstances don't determine destiny
 ```
 
